@@ -7,3 +7,5 @@ I hop this is't much a problema
 This bound to cause trouble
 >>>>>>> very-bad
 Note importante 
+Updateing
+More updates
